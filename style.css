@@ -1,0 +1,18 @@
+#speed {
+  color: #fff; 
+  align: center; 
+  padding-top: 40px;
+  font-size: 60px;
+  font-family: helvetica; 
+}
+#backgr {
+  height: 100%; 
+  width: 100%;
+}
+.centered {
+  margin: auto; 
+  width: 50%; 
+}
+body{
+  background-color: #000;
+}
